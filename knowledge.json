@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Glioblastoma (high-grade glioma)",
+    "mri_findings": "Irregular mass with thick, nodular or ring-like enhancement and a central necrotic core. Extensive T2/FLAIR hyperintense surrounding edema and infiltration. Mass effect and midline shift are common. May cross the corpus callosum (butterfly pattern). Heterogeneous signal, possible hemorrhage.",
+    "differential": "Brain metastasis, brain abscess, primary CNS lymphoma, tumefactive demyelination.",
+    "next_steps": "Contrast MRI with perfusion and MR spectroscopy, neurosurgical consultation, biopsy or resection for histology and molecular markers, tumor board."
+  },
+  {
+    "name": "Low-grade diffuse glioma",
+    "mri_findings": "Infiltrative T2/FLAIR hyperintense lesion, T1 hypointense, usually little or no contrast enhancement and minimal surrounding edema. Poorly defined margins, mild mass effect. Calcification possible (oligodendroglioma).",
+    "differential": "Ischemic infarct (subacute), encephalitis, gliomatosis cerebri, early high-grade glioma.",
+    "next_steps": "Contrast MRI, MR spectroscopy/perfusion, follow-up imaging, neurosurgical evaluation, histology and IDH/1p19q status."
+  },
+  {
+    "name": "Meningioma",
+    "mri_findings": "Extra-axial, dural-based, well-circumscribed mass. Iso-intense to gray matter on T1 and T2. Avid, homogeneous contrast enhancement with a dural tail. CSF cleft between mass and brain. Possible adjacent hyperostosis, calcification, or peritumoral edema.",
+    "differential": "Dural metastasis, hemangiopericytoma/solitary fibrous tumor, lymphoma, neurosarcoidosis.",
+    "next_steps": "Contrast MRI, evaluate venous sinus involvement, observation if small and asymptomatic, neurosurgery or radiosurgery referral if symptomatic or growing."
+  },
+  {
+    "name": "Pituitary adenoma",
+    "mri_findings": "Sellar mass, macroadenomas (>10 mm) often with figure-of-eight or snowman shape extending to the suprasellar region and possibly compressing the optic chiasm. Enhances less than normal pituitary tissue. Microadenomas (<10 mm) appear hypoenhancing on dynamic contrast. Cavernous sinus invasion possible.",
+    "differential": "Rathke cleft cyst, craniopharyngioma, meningioma, pituitary hyperplasia, aneurysm.",
+    "next_steps": "Dedicated pituitary protocol MRI, hormonal laboratory work-up, visual field testing, endocrinology and neurosurgery referral."
+  },
+  {
+    "name": "Acute ischemic stroke",
+    "mri_findings": "Hyperintense on DWI with low ADC (restricted diffusion) in a vascular territory. FLAIR may be normal in the first hours (DWI-FLAIR mismatch), later becoming hyperintense. Possible vessel occlusion on MRA, swelling and loss of gray-white differentiation.",
+    "differential": "Hypoglycemia, seizure-related changes, tumor, abscess, demyelination, posterior reversible encephalopathy syndrome.",
+    "next_steps": "Time-critical stroke pathway: confirm onset time, MRA/CTA for vessel occlusion, perfusion imaging, assess thrombolysis or thrombectomy eligibility, cardiac and vascular work-up."
+  },
+  {
+    "name": "Multiple sclerosis",
+    "mri_findings": "Multiple ovoid T2/FLAIR hyperintense white-matter lesions, periventricular and perpendicular to the ventricles (Dawson fingers), also juxtacortical, infratentorial and spinal cord lesions. Active lesions enhance (nodular or open-ring). Chronic lesions may appear as T1 black holes.",
+    "differential": "Small-vessel ischemic disease, neuromyelitis optica spectrum disorder, MOGAD, ADEM, vasculitis, migraine-related lesions.",
+    "next_steps": "Contrast MRI of brain and spinal cord, apply McDonald criteria, CSF oligoclonal bands, aquaporin-4 and MOG antibodies, neurology referral."
+  },
+  {
+    "name": "Brain metastases",
+    "mri_findings": "Often multiple enhancing lesions at the gray-white junction, round, with disproportionate vasogenic edema relative to size. Ring or solid enhancement. Hemorrhage possible (melanoma, renal, thyroid, choriocarcinoma).",
+    "differential": "Glioblastoma, abscesses, lymphoma, demyelinating lesions.",
+    "next_steps": "Contrast MRI of the whole brain, search for primary tumor (CT chest/abdomen/pelvis), oncology and radiation oncology or neurosurgery referral."
+  },
+  {
+    "name": "Brain abscess",
+    "mri_findings": "Ring-enhancing lesion with a smooth, thin wall that is often thinner on the ventricular side. Central cavity shows markedly restricted diffusion (bright on DWI, low ADC). Surrounding vasogenic edema. Dual rim sign on susceptibility imaging.",
+    "differential": "Necrotic glioblastoma, metastasis, tumefactive demyelination, resolving hematoma.",
+    "next_steps": "Urgent clinical correlation (fever, infection source), blood cultures, neurosurgical aspiration or drainage, targeted antibiotics."
+  },
+  {
+    "name": "Normal brain MRI",
+    "mri_findings": "Symmetric brain parenchyma, normal gray-white differentiation, no abnormal signal, no restricted diffusion, no abnormal enhancement, no mass effect or midline shift, normal ventricular size.",
+    "differential": "Subtle or early disease not visible on the sequences provided.",
+    "next_steps": "Correlate with clinical findings; consider additional sequences or follow-up if symptoms persist."
+  }
+]

@@ -1,0 +1,6 @@
+ollama
+chromadb
+gradio
+torch
+torchvision
+pillow
